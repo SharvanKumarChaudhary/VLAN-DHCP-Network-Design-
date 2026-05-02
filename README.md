@@ -5,9 +5,9 @@ This project demonstrates a computer network design using VLAN and DHCP. VLAN is
 ## Computer networks are an important part of modern communication systems. Managing a network becomes difficult when many devices are connected. This project focuses on designing a network using VLAN and DHCP. VLAN helps divide a network into smaller groups for better security and management, while DHCP automatically assigns IP addresses to devices. The project is implemented using Cisco Packet Tracer to understand how these technologies work in a real network environment.
 
 ## Tool / Software use :
- • Cisco Packet Tracer
+  • Cisco Packet Tracer
 
- ## Implementation: 
+## Implementation: 
 Step 1. Topology Setup
   Connect the following devices in the simulation:
     Layer 2 Switches: Multiple switches (e.g., Cisco 2960) to connect end-user PCs.
